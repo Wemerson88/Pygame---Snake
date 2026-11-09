@@ -8,6 +8,6 @@ Tecnologias Utilizadas
 Python 3 : Linguagem de programação principal.
 Pygame : Biblioteca para desenvolvimento de jogos.
 Como Jogar
--Abra no seu Idle -Inclua o recurso Pygame no seu compilador
+-Abra no sua Idle -Inclua o recurso Pygame no seu compilador
 
 Desenvolvido por Wemerson Miranda
